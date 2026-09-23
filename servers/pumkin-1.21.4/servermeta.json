@@ -1,0 +1,17 @@
+{
+  "$schema": "file:///${ROOT}/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "Pumkin Game (Minecraft 1.21.4)",
+    "description": "Pumkin Game 서버에 오신 것을 환영합니다!",
+    "icon": "",
+    "address": "pumkingams.kro.kr",
+    "discord": {
+      "shortId": "메인 서버",
+      "largeImageText": "내 서버",
+      "largeImageKey": ""
+    },
+    "mainServer": true,
+    "autoconnect": true
+  }
+}

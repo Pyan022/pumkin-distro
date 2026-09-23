@@ -1,0 +1,28 @@
+{
+  "version": "1.0.0",
+  "rss": "<LINK TO RSS FEED>",
+  "discord": {
+    "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+    "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+    "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+  },
+  "servers": [
+    {
+      "id": "pumkin-1.21.4",
+      "name": "Pumkin Game (Minecraft 1.21.4)",
+      "description": "Pumkin Game 서버에 오신 것을 환영합니다!",
+      "icon": null,
+      "version": "1.0.0",
+      "address": "pumkingams.kro.kr",
+      "minecraftVersion": "1.21.4",
+      "discord": {
+        "shortId": "메인 서버",
+        "largeImageText": "내 서버",
+        "largeImageKey": ""
+      },
+      "mainServer": true,
+      "autoconnect": true,
+      "modules": []
+    }
+  ]
+}
