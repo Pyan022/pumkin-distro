@@ -13,5 +13,8 @@
     },
     "mainServer": true,
     "autoconnect": true
+  },
+  "fabric": {
+    "version": "0.16.14"
   }
 }

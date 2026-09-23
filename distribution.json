@@ -22,7 +22,200 @@
       },
       "mainServer": true,
       "autoconnect": true,
-      "modules": []
+      "modules": [
+        {
+          "id": "net.fabricmc:fabric-loader:0.16.14",
+          "name": "Fabric (fabric-loader)",
+          "type": "Fabric",
+          "artifact": {
+            "size": 1416842,
+            "MD5": "e041ec21fad8f4dbd2ba7e73c25900d1",
+            "url": "https://pyan022.github.io/pumkin-distro/repo/lib/net/fabricmc/fabric-loader/0.16.14/fabric-loader-0.16.14.jar"
+          },
+          "subModules": [
+            {
+              "id": "1.21.4-fabric-0.16.14",
+              "name": "Fabric (version.json)",
+              "type": "VersionManifest",
+              "artifact": {
+                "size": 2849,
+                "MD5": "961fa852d5ca32e07b45ec9370b0c022",
+                "url": "https://pyan022.github.io/pumkin-distro/repo/versions/1.21.4-fabric-0.16.14/1.21.4-fabric-0.16.14.json"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm:9.8",
+              "name": "Fabric (asm)",
+              "type": "Library",
+              "artifact": {
+                "size": 126113,
+                "MD5": "f5adf3bfc54fb3d2cd8e3a1f275084bc",
+                "url": "https://pyan022.github.io/pumkin-distro/repo/lib/org/ow2/asm/asm/9.8/asm-9.8.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-analysis:9.8",
+              "name": "Fabric (asm-analysis)",
+              "type": "Library",
+              "artifact": {
+                "size": 35151,
+                "MD5": "3d63508405f5610fc2ea673ff5471553",
+                "url": "https://pyan022.github.io/pumkin-distro/repo/lib/org/ow2/asm/asm-analysis/9.8/asm-analysis-9.8.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-commons:9.8",
+              "name": "Fabric (asm-commons)",
+              "type": "Library",
+              "artifact": {
+                "size": 73498,
+                "MD5": "c8c3d9ccf240144e74d94ff658b024c9",
+                "url": "https://pyan022.github.io/pumkin-distro/repo/lib/org/ow2/asm/asm-commons/9.8/asm-commons-9.8.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-tree:9.8",
+              "name": "Fabric (asm-tree)",
+              "type": "Library",
+              "artifact": {
+                "size": 51934,
+                "MD5": "4ab1aaec43c77a2d9b56e6d6d496f705",
+                "url": "https://pyan022.github.io/pumkin-distro/repo/lib/org/ow2/asm/asm-tree/9.8/asm-tree-9.8.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-util:9.8",
+              "name": "Fabric (asm-util)",
+              "type": "Library",
+              "artifact": {
+                "size": 94559,
+                "MD5": "62498ef324bdab15f407d703f7d78d19",
+                "url": "https://pyan022.github.io/pumkin-distro/repo/lib/org/ow2/asm/asm-util/9.8/asm-util-9.8.jar"
+              }
+            },
+            {
+              "id": "net.fabricmc:sponge-mixin:0.15.5+mixin.0.8.7",
+              "name": "Fabric (sponge-mixin)",
+              "type": "Library",
+              "artifact": {
+                "size": 1499194,
+                "MD5": "f810932fdff9aa436d7d4f4ac69ce8c2",
+                "url": "https://pyan022.github.io/pumkin-distro/repo/lib/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar"
+              }
+            },
+            {
+              "id": "net.fabricmc:intermediary:1.21.4",
+              "name": "Fabric (intermediary)",
+              "type": "Library",
+              "artifact": {
+                "size": 701826,
+                "MD5": "d0f4187a62328d4a95f3428434efbd48",
+                "url": "https://pyan022.github.io/pumkin-distro/repo/lib/net/fabricmc/intermediary/1.21.4/intermediary-1.21.4.jar"
+              }
+            }
+          ]
+        },
+        {
+          "id": "io.github.kosmx.emotes:emotecraft:2.5.8@jar",
+          "name": "Emotecraft",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1259819,
+            "url": "https://pyan022.github.io/pumkin-distro/servers/pumkin-1.21.4/fabricmods/required/emotecraft-fabric-for-MC1.21.4-2.5.8.jar",
+            "MD5": "ecbcffd1aa9d83847e00da62fc45d9b3"
+          }
+        },
+        {
+          "id": "kr.worlha.fdowned:f-downed:1.0.3@jar",
+          "name": "F-downed",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 6882,
+            "url": "https://pyan022.github.io/pumkin-distro/servers/pumkin-1.21.4/fabricmods/required/F-downed-1.0.3.jar",
+            "MD5": "379ac1ee30cd271c3a19f3fc8d512b2b"
+          }
+        },
+        {
+          "id": "generated.fabricmod:fabric-api:0.119.4+1.21.4@jar",
+          "name": "Fabric API",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2149128,
+            "url": "https://pyan022.github.io/pumkin-distro/servers/pumkin-1.21.4/fabricmods/required/fabric-api-0.119.4+1.21.4.jar",
+            "MD5": "128a8d042180e7c92567342e21a21a6d"
+          }
+        },
+        {
+          "id": "snownee.jade:jade:17.2.2+fabric@jar",
+          "name": "Jade",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 788296,
+            "url": "https://pyan022.github.io/pumkin-distro/servers/pumkin-1.21.4/fabricmods/required/Jade-1.21.4-Fabric-17.2.2.jar",
+            "MD5": "42a76917e67889de6d20d313efccabac"
+          }
+        },
+        {
+          "id": "journeymap:journeymap:1.21.4-6.0.0-beta.47@jar",
+          "name": "Journeymap",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 3514384,
+            "url": "https://pyan022.github.io/pumkin-distro/servers/pumkin-1.21.4/fabricmods/required/journeymap-fabric-1.21.4-6.0.0-beta.47.jar",
+            "MD5": "3893e727701bc66b4f3dbd80a434282d"
+          }
+        },
+        {
+          "id": "kr.dicov:meteorfx:1.0.0@jar",
+          "name": "Dicov Meteor Effects",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 34697,
+            "url": "https://pyan022.github.io/pumkin-distro/servers/pumkin-1.21.4/fabricmods/required/meteorfx-fabric-1.21.4-1.0.0.jar",
+            "MD5": "04caa000468037c7c780c8ebbf09020f"
+          }
+        },
+        {
+          "id": "org.embeddedt:modernfix:5.20.3+mc1.21.4@jar",
+          "name": "ModernFix",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 436498,
+            "url": "https://pyan022.github.io/pumkin-distro/servers/pumkin-1.21.4/fabricmods/required/modernfix-fabric-5.20.3+mc1.21.4.jar",
+            "MD5": "1bee2326edcced182b86154e44810971"
+          }
+        },
+        {
+          "id": "su.plo.voice:plasmovoice:2.1.17@jar",
+          "name": "Plasmo Voice",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 12366300,
+            "url": "https://pyan022.github.io/pumkin-distro/servers/pumkin-1.21.4/fabricmods/required/plasmovoice-fabric-1.21.4-2.1.17.jar",
+            "MD5": "bafbdb1d1407688da7baa29407d201d9"
+          }
+        },
+        {
+          "id": "net.caffeinemc.mods:sodium:0.6.13+mc1.21.4@jar",
+          "name": "Sodium",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1306799,
+            "url": "https://pyan022.github.io/pumkin-distro/servers/pumkin-1.21.4/fabricmods/required/sodium-fabric-0.6.13+mc1.21.4.jar",
+            "MD5": "28922a78d1876ee062e3265f10abcc46"
+          }
+        },
+        {
+          "id": "me.zipestudio.talkingheads.entrypoint:talkingheads:1.1.3+1.21.4+fabric@jar",
+          "name": "Talking Heads",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 289843,
+            "url": "https://pyan022.github.io/pumkin-distro/servers/pumkin-1.21.4/fabricmods/required/talking-heads-1.1.3+1.21.4+fabric.jar",
+            "MD5": "9bc672e79e764898e9d54ae0b95a8432"
+          }
+        }
+      ]
     }
   ]
 }
