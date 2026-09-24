@@ -18,23 +18,23 @@
       "autoconnect": true,
       "modules": [
         {
-          "id": "net.fabricmc:fabric-loader:0.16.14",
+          "id": "net.fabricmc:fabric-loader:0.17.2",
           "name": "Fabric (fabric-loader)",
           "type": "Fabric",
           "artifact": {
-            "size": 1416842,
-            "MD5": "e041ec21fad8f4dbd2ba7e73c25900d1",
-            "url": "https://pyan022.github.io/pumkin-distro/repo/lib/net/fabricmc/fabric-loader/0.16.14/fabric-loader-0.16.14.jar"
+            "size": 1915305,
+            "MD5": "72dd698d701202d46303fc913cfcbf23",
+            "url": "https://pyan022.github.io/pumkin-distro/repo/lib/net/fabricmc/fabric-loader/0.17.2/fabric-loader-0.17.2.jar"
           },
           "subModules": [
             {
-              "id": "1.21.4-fabric-0.16.14",
+              "id": "1.21.4-fabric-0.17.2",
               "name": "Fabric (version.json)",
               "type": "VersionManifest",
               "artifact": {
-                "size": 2849,
-                "MD5": "961fa852d5ca32e07b45ec9370b0c022",
-                "url": "https://pyan022.github.io/pumkin-distro/repo/versions/1.21.4-fabric-0.16.14/1.21.4-fabric-0.16.14.json"
+                "size": 2847,
+                "MD5": "0a27271f88e6b9557dc97a505c078466",
+                "url": "https://pyan022.github.io/pumkin-distro/repo/versions/1.21.4-fabric-0.17.2/1.21.4-fabric-0.17.2.json"
               }
             },
             {
@@ -88,13 +88,13 @@
               }
             },
             {
-              "id": "net.fabricmc:sponge-mixin:0.15.5+mixin.0.8.7",
+              "id": "net.fabricmc:sponge-mixin:0.16.3+mixin.0.8.7",
               "name": "Fabric (sponge-mixin)",
               "type": "Library",
               "artifact": {
-                "size": 1499194,
-                "MD5": "f810932fdff9aa436d7d4f4ac69ce8c2",
-                "url": "https://pyan022.github.io/pumkin-distro/repo/lib/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar"
+                "size": 1504156,
+                "MD5": "aa4a43d5b0e9abf4fcb57520ffeb0019",
+                "url": "https://pyan022.github.io/pumkin-distro/repo/lib/net/fabricmc/sponge-mixin/0.16.3+mixin.0.8.7/sponge-mixin-0.16.3+mixin.0.8.7.jar"
               }
             },
             {
