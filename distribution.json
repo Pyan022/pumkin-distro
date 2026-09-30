@@ -140,23 +140,13 @@
           }
         },
         {
-          "id": "snownee.jade:jade:17.2.2+fabric@jar",
-          "name": "Jade",
+          "id": "generated.fabricmod:ferritecore:7.1.3@jar",
+          "name": "FerriteCore",
           "type": "FabricMod",
           "artifact": {
-            "size": 788296,
-            "url": "https://pyan022.github.io/pumkin-distro/servers/pumkin-1.21.4/fabricmods/required/Jade-1.21.4-Fabric-17.2.2.jar",
-            "MD5": "42a76917e67889de6d20d313efccabac"
-          }
-        },
-        {
-          "id": "journeymap:journeymap:1.21.4-6.0.0-beta.47@jar",
-          "name": "Journeymap",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 3514384,
-            "url": "https://pyan022.github.io/pumkin-distro/servers/pumkin-1.21.4/fabricmods/required/journeymap-fabric-1.21.4-6.0.0-beta.47.jar",
-            "MD5": "3893e727701bc66b4f3dbd80a434282d"
+            "size": 109879,
+            "url": "https://pyan022.github.io/pumkin-distro/servers/pumkin-1.21.4/fabricmods/required/ferritecore-7.1.3-fabric.jar",
+            "MD5": "cd9fba194e3409f486a9c25a26518c8e"
           }
         },
         {
